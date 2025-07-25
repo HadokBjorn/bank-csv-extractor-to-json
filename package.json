@@ -2,7 +2,7 @@
   "name": "extrair-csv-dos-bancos",
   "version": "1.0.0",
   "description": "Script para extrair dados de bancos em formato CSV e convertê-los para um array.",
-  "main": "buildArrayFromCsv.js",
+  "main": "main.js",
   "scripts": {
     "start": "node src/main.js"
   },
